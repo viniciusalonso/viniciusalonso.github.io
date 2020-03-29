@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning elixir language - Part 1"
+title: "Introduction to Elixir"
 tags: ["elixir", "functional programming"]
 ---
 
