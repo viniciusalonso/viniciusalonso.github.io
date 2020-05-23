@@ -2,6 +2,8 @@
 layout: post
 title: "Quick vim tip: Change vim's behaviour for each kind of file"
 tags: ["vim"]
+description: >
+  Each kind of file has different code standards, maybe, you would like to set up custom shortcuts for each of them. In the vim editor, you can split how editor should have to behave for each one.
 ---
 
 We navigate on many different kinds of files every day. If you work in web projects your daily routine probably involves at least four kinds of file, HTML, CSS, Javascript and your language to the backend. 

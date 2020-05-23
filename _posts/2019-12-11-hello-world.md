@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Hello World"
+description: >
+  My name is Vinícius B. Alonso and I'm a software developer that like a lot of TDD, OO and software engineering in general.
 ---
 
 The simplest program that you're able to write in any language is the famous "Hello World".

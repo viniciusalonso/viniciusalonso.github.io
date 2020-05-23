@@ -2,6 +2,8 @@
 layout: post
 title: "The 100% code coverage trap"
 tags: [""]
+description: >
+  Maybe one of the most appreciate metrics for programmers is the code coverage. This percentage determines how much of the testing coverage your project has. A bit of programmer really cares about what this number means, let’s talk about it.
 ---
 
 Maybe one of the most appreciate metrics for programmers is the code coverage. This percentage determines how much of the testing coverage your project has. A bit of programmer really cares about what this number means, let’s talk about it.

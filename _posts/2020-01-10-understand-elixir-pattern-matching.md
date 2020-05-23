@@ -2,6 +2,9 @@
 layout: post
 title: "How Elixir's pattern matching works"
 tags: ["elixir", "functional programming"]
+description: >
+  In the previous post, we’ve started to learn about Elixir’s history and functional programming. Today I’m gonna explain one of the most important concepts: pattern matching.
+
 ---
 
 In the previous post, we’ve started to learn about Elixir’s history and functional programming. Today I’m gonna explain one of the most important concepts: pattern matching.

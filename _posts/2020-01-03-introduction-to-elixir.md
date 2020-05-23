@@ -2,6 +2,8 @@
 layout: post
 title: "Introduction to Elixir"
 tags: ["elixir", "functional programming"]
+description: >
+  Today I wanna start a post series with the topic Learning Elixir. This is the first post to introduce this wonderful technology.
 ---
 
 Today I wanna start a post series with the topic Learning Elixir. This is the first post to introduce this wonderful technology.
