@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 100% code coverage trap"
-tags: [""]
+tags: ["tdd", "rspec"]
 description: >
   Maybe one of the most appreciate metrics for programmers is the code coverage. This percentage determines how much of the testing coverage your project has. A bit of programmer really cares about what this number means, let’s talk about it.
 ---
@@ -44,7 +44,7 @@ To test the model we need to think in some test cases like:
 ```ruby
 describe '.active_only' do
   context "when there aren't clients" do
-    
+
     it { expect(described_class.active_only).to be_empty }
 
   end
