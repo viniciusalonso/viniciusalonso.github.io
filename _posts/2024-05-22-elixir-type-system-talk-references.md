@@ -13,4 +13,5 @@ Next weekend in São Paulo, I will be presenting a talk about the new Elixir typ
 - [The foundations of the Elixir type system](https://youtu.be/giYbq4HmfGA)
 - [My Future with Elixir: set-theoretic types](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)
 - [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
+- [Practical Subtyping System For Erlang](https://dl.acm.org/doi/pdf/10.1145/258948.258962) an attempt of create a static type system for Erlang
 
