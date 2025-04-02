@@ -6,6 +6,9 @@ tags: ["rails"]
 
 Next Friday I will be speaking at [Tropical Rails 2025](https://www.tropicalonrails.com/). Here are the references I used in my talk:
 
+# Reddit Topic
+ - [What are the lesser-known rails features you’ve noticed in code reviews?](https://www.reddit.com/r/rails/comments/1glb7cw/what_are_the_lesserknown_rails_features_youve/)
+
 # Rails Resources
 
 ## Active Model
